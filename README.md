@@ -1,1 +1,2 @@
 # Pictureconverter
+Learning some stuff.
