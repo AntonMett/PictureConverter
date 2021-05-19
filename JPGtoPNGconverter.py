@@ -2,7 +2,6 @@ import pathlib
 import sys
 import os
 from PIL import Image
-from pathlib import Path
 
 jpg_folder = sys.argv[1]
 new_png_folder = sys.argv[2]
