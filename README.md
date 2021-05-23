@@ -1,2 +1,1 @@
-# Pictureconverter
-Learning some stuff.
+THIS IS MY FIRST SCRIPT!
